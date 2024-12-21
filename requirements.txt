@@ -1,0 +1,5 @@
+cvzone
+numpy
+tensorflow
+opencv-python
+keras
